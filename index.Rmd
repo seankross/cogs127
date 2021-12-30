@@ -1,0 +1,25 @@
+---
+title: "COGS 127 - Winter 2022"
+output: 
+  html_document:
+    css: "style.css"
+---
+
+## Important Links:
+
+- [**Zoom Link to Lecture**](https://ucsd.zoom.us/j/94147038462)
+- [Piazza Discussion Forum](https://piazza.com/ucsd/winter2022/cogs127)
+- Syllabus (Coming Soon)
+
+## Schedule:
+
+The only course meeting times are 
+**Monday, Wednesday, and Friday, 11am to 11:50am** starting January 3rd 2022 
+until March 11th 2022.
+
+### Week 1:
+
+  - Lecture Slides (Coming Soon)
+  - Assignment (Coming Soon)
+  
+
