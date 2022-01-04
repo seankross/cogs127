@@ -9,6 +9,7 @@ output:
 
 - [**Zoom Link to Lecture**](https://ucsd.zoom.us/j/94147038462)
 - [Piazza Discussion Forum](https://piazza.com/ucsd/winter2022/cogs127)
+- [Canvas Page](https://canvas.ucsd.edu/courses/34927)
 - Syllabus (Coming Soon)
 
 ## Schedule:
@@ -19,7 +20,9 @@ until March 11th 2022.
 
 ### Week 1:
 
-  - Lecture Slides (Coming Soon)
-  - Assignment (Coming Soon)
+**Lecture 1:**
+
+  - [Video](https://youtu.be/NhRw3jXl-vQ)
+  - [Slides](https://docs.google.com/presentation/d/19B4J8erjY4mtg0qvGdFL5DY4bAb9OSk-dDLloUlqqzI/edit?usp=sharing)
   
 
