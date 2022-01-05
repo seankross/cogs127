@@ -14,11 +14,19 @@ output:
 
 ## Schedule:
 
-The only course meeting times are 
+The course meeting times are 
 **Monday, Wednesday, and Friday, 11am to 11:50am** starting January 3rd 2022 
 until March 11th 2022.
 
 ### Week 1:
+
+**Lecture 2:**
+
+  - [Video] Coming soon
+  - [Slides](https://docs.google.com/presentation/d/1yWVK7JUIuEmR-T9RhDBmT8kudeTqSBI6uFuRwQ3-xB8/edit?usp=sharing)
+  - [Project Design Prompts](https://docs.google.com/document/d/1JCqJPEhz1hK7kltdw8Pq50cFTxq54IN84E7XRJ1fKHg/edit?usp=sharing)
+  - [Mentor Intros](https://docs.google.com/document/d/1fa0RJkTf0BcnDQUaFWw-rjw1MpoLvI_VGAq4nDpqFRE/edit?usp=sharing)
+  - [Mentor Intro Videos](https://youtu.be/rXVMUY_8RG4)
 
 **Lecture 1:**
 
