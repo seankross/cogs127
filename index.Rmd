@@ -10,7 +10,7 @@ output:
 - [**Zoom Link to Lecture**](https://ucsd.zoom.us/j/94147038462)
 - [Piazza Discussion Forum](https://piazza.com/ucsd/winter2022/cogs127)
 - [Canvas Page](https://canvas.ucsd.edu/courses/34927)
-- Syllabus (Coming Soon)
+- [Syllabus](https://docs.google.com/document/d/1JdQFcB2yX53teMEPZfQtVoQU2zGOb-5pBbqejgT928E/edit?usp=sharing)
 
 ## Schedule:
 
