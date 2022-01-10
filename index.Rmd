@@ -22,7 +22,7 @@ until March 11th 2022.
 
 **Lecture 1:**
 
-  - [Video] (coming soon)
+  - [Video](https://youtu.be/f4c2_X98eWg)
   - [Slides](https://docs.google.com/presentation/d/1WmrC8dxQ4truRZa4DiHHiYsMGXgb7YiOluCs7WNWqg8/edit?usp=sharing)
   - [Milestone 1 and 2 Instructions](https://docs.google.com/document/d/1Ns9ej3XzDReYPu5q5U-_5DLLcKxUZHNw3Z5Vpu29hVw/edit?usp=sharing)
   - [Team and Mentor Sign-Up Form](https://forms.gle/y8Nsc7jdSVNjSYRJ8)
