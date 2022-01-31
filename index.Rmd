@@ -24,7 +24,7 @@ until March 11th 2022.
 
 **Lecture 1:**
 
-  - [Video] (coming soon)
+  - [Video](https://youtu.be/uSCbMvRW56Y)
   - [Slides](https://docs.google.com/presentation/d/1yBdowl-PCIVlE0sHN4azwr9bYco_aNSD15MKj4AgEdI/edit?usp=sharing)
 
 ### Week 4:
@@ -33,6 +33,7 @@ until March 11th 2022.
 
   - [Video](https://youtu.be/92DImnCm78Y)
   - [Milestone 4](https://docs.google.com/document/d/1h9IfC71HF6uYT6LwLRUeKzrPXT4bmQeyIbegYU4MS0Q/edit?usp=sharing)
+  - [Adam's Figma File](https://www.figma.com/file/KjRMbCiqPjgFbZdHHzdndb/1%2F28?node-id=201%3A4067)
 
 **Lecture 1:**
 
