@@ -31,6 +31,7 @@ until March 11th 2022.
 **Lecture 2:**
 
   - [Video](https://youtu.be/Fjb0ZUv9x7Q)
+  - [Slides](https://docs.google.com/presentation/d/1BLFcgBpMCSGZypPz9ts9cHo49goUNF3RhiZLEx2rV74/edit?usp=sharing)
   - [Milestone 5](https://docs.google.com/document/d/1137ooxjxhVMFcml-28kfd3O9ee7e4L2oZRnEbs47Uwc/edit?usp=sharing)
 
 **Lecture 1:**
